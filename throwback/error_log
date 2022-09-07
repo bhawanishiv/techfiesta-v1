@@ -1,0 +1,45 @@
+[29-Oct-2018 07:03:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:09:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:21:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2004): Can't create TCP/IP socket (97) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:21:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2004): Can't create TCP/IP socket (97) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:47:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:48:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nrl2iv3hylcq'@'ip-166-62-10-143.ip.secureserver.net' (using password: YES) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:48:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nrl2iv3hylcq'@'ip-166-62-10-143.ip.secureserver.net' (using password: YES) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 07:50:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[29-Oct-2018 08:04:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[30-Oct-2018 04:48:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/nrl2iv3hylcq/public_html/db.php on line 3
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined index: id in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 5
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 68
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 71
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 74
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 77
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 80
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 83
+[01-Nov-2018 13:32:05 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 86
+[01-Nov-2018 13:39:53 UTC] PHP Notice:  Undefined index: reg in /home/nrl2iv3hylcq/public_html/setting.php on line 7
+[01-Nov-2018 13:40:54 UTC] PHP Notice:  Undefined index: reg in /home/nrl2iv3hylcq/public_html/setting.php on line 7
+[01-Nov-2018 19:13:04 asia/kolkata] PHP Notice:  Undefined variable: stdid in /home/nrl2iv3hylcq/public_html/setting.php on line 34
+[02-Nov-2018 06:22:35 UTC] PHP Notice:  Undefined index: id in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 5
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 68
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 71
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 74
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 77
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 80
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 83
+[02-Nov-2018 06:22:36 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 86
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined index: id in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 5
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 68
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 71
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 74
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 77
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 80
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 83
+[02-Nov-2018 06:22:50 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 86
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined index: id in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 5
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 68
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 71
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 74
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 77
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 80
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 83
+[06-Nov-2018 12:51:26 UTC] PHP Notice:  Undefined variable: row in /home/nrl2iv3hylcq/public_html/viewdetails.php on line 86

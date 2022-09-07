@@ -1,0 +1,55 @@
+
+.col-md-4{
+	padding: 0px !important;
+}
+.meter 
+{
+color: #fff;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.progress{
+ margin-bottom: 10px;
+}
+
+.backthrows
+{
+	color: #fff;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+.bhead{font: 1.5em;}
+.register a span{
+  font-size: 1.2em;
+}
+.register a:hover{
+  font-size: 1.3em;
+}
+h1 .badge
+{
+	margin-bottom: 75% !important;
+	background-color: #000000;
+	position: relative;
+	z-index: 12;
+	 color:#ffcc00;
+}
+.register h1{
+   animation: notice 1s 1s infinite;
+   border:0px;
+   position: absolute;
+	z-index: 12;
+   color: 	#ffcc00;
+}
+@keyframes notice{
+	0% {font-size: 23px;}
+	10% {font-size: 24px;}
+	20% {font-size: 25px;}
+	30% {font-size: 26px;}
+	40% {font-size: 27px;}
+	50% {font-size: 28px;}
+	60% {font-size: 28px;}
+	70% {font-size: 27px;}
+	80% {font-size: 26px;}
+	90% {font-size: 25px;}
+	100% {font-size:24px;}
+}

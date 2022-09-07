@@ -1,0 +1,18 @@
+.content
+{
+	background-color: #ccc;
+}
+.teampic img{
+	width: 200px;
+	height: 205px;
+}
+.teamcaption
+{
+	padding-left: 35px;
+}
+.teamcaption .btn{
+	padding: 5px 25px;
+}
+.teampic{
+	margin-bottom: 15px !important;
+}

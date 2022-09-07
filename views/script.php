@@ -1,0 +1,42 @@
+<script src="<?php echo URL; ?>public/scripts/jquery-3.3.1.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/materialize.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-animate.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-area.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-message.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-material.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-filter.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/moment-with-locale.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-moment.min.js"></script>
+<!--<script src="<?php echo URL; ?>public/scripts/ng-img-crop.js"></script>-->
+<script src="<?php echo URL; ?>public/scripts/app/module/main.js"></script>
+<script src="https://apis.google.com/js/platform.js?onload=init" async defer></script>
+<script src="<?php echo URL; ?>public/scripts/techfiesta.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/provider.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/factory.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/services.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/directives.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/filters.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/language.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/navigation.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/footer.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/user.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/hospitality.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/profile.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/events.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/participate.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/news.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/support.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/manage.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-team.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-users.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-events.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-departments.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-school.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-payments.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-hospitality.js"></script>
+<script src="<?php echo URL; ?>public/scripts/holder.min.js"></script>
+<!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+</body>
+</html>

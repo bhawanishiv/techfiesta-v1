@@ -1,0 +1,16 @@
+.border
+{
+	padding-top: 50px;
+	margin: 100px auto;
+	border:0px solid;
+	border-radius: 10px;
+	color:white;
+	text-align: center;
+	word-wrap: break-word;
+	width: 80%;
+	height: 70%;
+}
+#text
+{
+	word-wrap: break-word;
+}

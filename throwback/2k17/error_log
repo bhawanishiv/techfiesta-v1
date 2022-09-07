@@ -1,0 +1,9 @@
+[15-Aug-2018 08:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/nrl2iv3hylcq/public_html/databaseconnect.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nrl2iv3hylcq/public_html/databaseconnect.php on line 8
+[15-Aug-2018 08:58:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/nrl2iv3hylcq/public_html/databaseconnect.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nrl2iv3hylcq/public_html/databaseconnect.php on line 8
+[15-Aug-2018 08:58:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nrl2iv3hylcq/public_html/databaseconnect.php on line 8

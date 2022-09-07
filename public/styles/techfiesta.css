@@ -1,0 +1,212 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+#input-file-hidden{
+    visibility: hidden; 
+}
+.tf-background{    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment:fixed;
+}
+#firstcircle{
+    -webkit-animation: rotation 20s infinite linear;
+}
+
+.auto-vertical {
+
+}
+
+@-webkit-keyframes rotation {
+    from{ -webkit-transform: rotate(359deg);}
+    to{-webkit-tranform: rotate(0deg);}
+}
+
+@-webkit-keyframes rotation {
+    from{ -webkit-transform: rotate(359deg);}
+    to{-webkit-tranform: rotate(0deg);}
+}
+
+
+@media screen and (max-width: 768px) {
+    .circle1 img{
+        width:90%;
+        height:90%;
+    }
+}
+
+@media screen and (max-width: 650px)
+{
+    .circle1 img{
+        margin-top:40px;
+    }
+
+}
+
+@media screen and (max-width: 400px){
+
+    .circle1 img{
+        margin-top:70px;
+    }
+
+}
+
+/*.sticky-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 400px;
+}*/
+/*.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4rem;
+    z-index: 999;
+}*/
+
+.form-contact{
+    width: 100%;
+    max-width: 1000px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-createAccount{
+    width: 100%;
+    max-width: 500px;
+    padding: 15px;
+    margin: auto;
+}
+.form-login{
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: auto;
+}
+
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background: #f5f5f5;
+    font-size:0.9rem;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+h1{font-size:2.7rem;}
+h2{font-size:2.3rem;}
+h3{font-size:1.9rem;}
+h4{font-size:1.5rem;}
+h5{font-size:1.1rem;}
+h6{font-size:0.8rem;}
+/*
+a .nav-link .active{
+    font-weight: 500 !important;
+}
+
+nav a, nav ul a{
+    color:#4C2C1D !important;
+}
+nav a:hover, nav ul a:hover{
+    color:#DC6E59  !important;
+}
+
+footer a{
+    color:#DC6E59 !important;
+    font-weight:400;
+}
+footer a:hover{
+    color:#FFD5AA !important;
+}
+
+footer h5{
+    color:#FFD5AA !important;
+    font-weight:400; 
+}*/
+.dark-brown{
+    background:#4C2C1D;
+}
+.brown{
+    background:#77412D;
+}
+.light-brown{
+    background:#884733;
+}
+.light-brown-2{
+    background:#DC6E59;
+}
+.light-yellow{
+    background:#FFD5AA;
+}
+
+.btn-light{
+    color: #fff;
+    background-color: #DC6E59;
+    border-color: #DC6E59;
+}
+
+.btn-light:hover{
+    color: #DC6E59;
+    background-color: #FFD5AA;
+    border-color: #FFD5AA;
+    transition: 0.5s;
+}
+.btn-primary.disabled, .btn-primary:disabled{
+    background:#fbc9b0;
+    border-color:#fbc9b0;
+    cursor:no-drop; 
+}
+.btn-primary, a .btn .btn-primary{
+    color: #fff;
+    background-color: #884733;
+    border-color: #884733;
+}
+.btn-primary:hover, a .btn .btn-primary:hover{
+    color: #DC6E59;
+    background-color: #4C2C1D;
+    border-color: #4C2C1D;
+    transition: 0.5s;
+}
+
+/*.liked{
+    color:#3578e5 ;
+}
+
+.liked:hover{
+    color:#2f6acc ;
+}
+
+a{
+    color:#884733 ;
+    text-decoration: none;
+}
+a:hover{
+    color:#DC6E59 ;
+    text-decoration: none;
+}*/
+/*.bd-navbar{
+    min-height: 4rem;
+    background-color: #563d7c;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
+}*/
+.hover{
+    padding:5px;
+}
+.hover:hover {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 5px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+    background:#fff;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color:#000;
+    font-weight: 500;
+    background: transparent;
+}

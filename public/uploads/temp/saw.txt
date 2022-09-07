@@ -1,0 +1,2 @@
+Country;Capital;Area;Prop;
+Country1;Capital1;Area1;Prop1;

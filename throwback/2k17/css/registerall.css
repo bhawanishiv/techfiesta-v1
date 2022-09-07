@@ -1,0 +1,76 @@
+           .formitem{
+              padding: 10px;
+              margin-bottom: 30px !important;
+              height: 635px;
+              color: #000;
+              background-color:#fff; 
+              border-radius: 5px;
+            }
+            .inputf{
+              border-style: none;
+              border-bottom: 2px solid blue;
+              margin:5px 25px;
+              padding: 5px;
+              font-size: 1.3em;
+              outline: none;
+            }
+            .inputb{
+              margin:15px 40%;
+            }
+            .fbutton{
+              margin-top: 25px;
+            }
+            .forgetlink{
+               margin:20px 3%;
+               font-size: 1.2em;
+            }
+            .btngender{
+              padding: 5px;
+              font-size: 1.3em;
+              outline: none;
+            }
+            @media screen and(max-width:992px)
+            {
+              .inputf{
+                margin:5px 15px;
+              }
+            }
+             @media screen and(max-width:768px)
+            {
+              .inputf{
+                margin:5px 10px ;
+              }
+              
+            }
+            #ok{
+              position:relative;
+              text-align: center;
+              display: block !important;
+            }
+            .ltitle{
+              text-align: center;
+              font-size: 2em;
+              color: #fff;
+              text-shadow: 0px 0px 3px blue;
+            }
+           .title ul li{
+            position: relative;
+            display: inline-block;
+            padding: 6px 30px;
+           }
+           .title ul li a{
+            text-decoration: none;
+            color: blue;
+            padding-left;
+            font-size:1.3em;
+           }
+           .title ul li a:hover{
+            color: green;
+           }
+
+          td{
+            padding: 5px;
+          }
+          tr{
+            padding: 10px 25px;
+          }

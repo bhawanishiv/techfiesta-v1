@@ -1,0 +1,185 @@
+
+@font-face {
+        font-family: contact_head;
+      src: url(../fonts/cobaltaliensuperital.ttf);
+    }
+
+@font-face {
+        font-family: contact_body;
+      src: url(../fonts/NiconneRegular.ttf);
+    }
+
+.anchor1,.anchor8
+{
+	 color:#fff; 
+     text-decoration:none; 
+     cursor:pointer;
+}
+.anchor2,.anchor3,.anchor4,.anchor5,.anchor6,.anchor7,.anchor9,.anchor10,.anchor11,.anchor12
+{
+	 color:green; 
+     text-decoration:none; 
+     cursor:pointer;
+}
+
+
+#intro
+{
+	display:block;
+	position: relative;
+}
+
+#ins,#rule,#dir,#faq,#contact
+{
+	display:none;
+	position: relative;
+}
+.tab
+{
+	margin-left: 15px;
+	font-size:22px;
+}
+
+[name="tab"] {
+  display: none;  
+}
+
+.intro_input,.ins_input
+{
+	display: none;
+}
+ 
+.techfiesta
+{
+	width: 250px;
+	height: 150px;
+	margin-top:50px;
+	
+	margin-left:8%;
+}
+
+.gsac_details
+{
+	position:relative;
+	top:100px;
+	left: 5%;
+	color:white;
+}
+
+ul
+{
+	list-style: none;
+}
+
+.head
+{
+	color:white;
+	font-family: contact_head;
+	font-size: 30px;
+}
+.part
+{
+	color:white;
+	font-family: contact_part;
+	font-size: 20px;
+}
+
+#tech_head
+{
+	margin-bottom: 10px;
+}
+
+.query
+{
+	border: 1px solid;
+	border-radius:5px;
+	position: absolute;
+	top: -193%;
+	right: 20%;
+	background-color: #808080;
+	height: 600px;
+	width: 350px;
+}
+@media only screen and (max-width: 768px)
+{
+
+	.query
+{
+	border: 1px solid;
+	border-radius:5px;
+	position: absolute;
+	top: 120%;
+	right: 1%;
+	background-color: #808080;
+	height: 400px;
+	width: 350px;
+}
+
+}
+
+.query_head
+{
+	margin-top: 30px;
+	color:white;
+	font-family: contact_head;
+	font-size: 30px;
+	text-align: center;
+}
+
+.input,.button
+{
+	border:none;
+	padding:15px 20px;
+	border-radius:25px;
+	background:rgba(255,255,255,.1);
+}
+ .input,textarea 
+{
+	width:100%;
+	color:black;
+	display:block;
+	background-color: white;
+}
+.button
+{
+
+	width:100%;
+	
+	display:block;
+	background: blue;
+}
+.group
+{
+	margin:10px 5%;
+}
+
+.box
+{
+	border: 1px solid #cc570e;
+	background: #cc570e;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	border-radius: 9px;
+	opacity: 0.7;
+}
+
+.message
+{
+	margin-top: 50px;
+	border: 1px solid #cc570e;
+	background: #cc570e;
+	text-align: center;
+	padding-top: 25px;
+	padding-left: 10px;
+	border-radius: 10px;
+	height: 300px;
+	overflow:auto;
+	text-align: left;
+	opacity: 0.7;
+	font-size: 19px;
+}
+
+#hfooter{
+	margin-top:120px;
+}

@@ -1,0 +1,40 @@
+<script src="<?php echo URL; ?>public/scripts/jquery-3.3.1.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/materialize.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-animate.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-area.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-message.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-material.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-filter.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/moment-with-locale.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/angular-moment.min.js"></script>
+<!--<script src="<?php echo URL; ?>public/scripts/ng-img-crop.js"></script>-->
+<script src="<?php echo URL; ?>public/scripts/app/module/main.js"></script>
+<script src="https://apis.google.com/js/platform.js?onload=init" async defer></script>
+<script src="<?php echo URL; ?>public/scripts/techfiesta.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/provider.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/factory.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/services.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/directives.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/filters.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/language.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/navigation.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/footer.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/user.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/hospitality.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/profile.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/events.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/news.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/support.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/manage.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-team.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-users.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-events.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-departments.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-school.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-payments.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/app/controllers/dashboard/dashboard-hospitality.min.js"></script>
+<script src="<?php echo URL; ?>public/scripts/holder.min.js"></script>
+</body>
+</html>

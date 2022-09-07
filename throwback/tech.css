@@ -1,0 +1,56 @@
+
+
+body{
+	
+	background: url(tf.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment:fixed;
+	
+}
+.box img {
+	
+	padding:60px;
+	height:350px;
+	width:350px;
+}
+.navbar{
+	
+	border:none;
+}
+.navbar-logo img
+{
+	
+height:50px;
+width:240px;
+margin-bottom:auto;
+}
+.footer{
+	 position:absolute;
+   bottom:0;
+	height:105px;
+	background-image: url(footer.png);
+	width:100%;
+}
+
+
+
+@media screen and (max-width: 768px) {
+	
+.navbar {
+    background: url(psm.jpg);
+  }
+  .footer{
+	display:none;
+	
+	}
+}
+
+
+
+
+	
+
+
+

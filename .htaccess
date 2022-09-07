@@ -1,0 +1,32 @@
+php_flag display_errors on
+php_value error_reportig 9999
+php_value session.cookie_domain .techfiesta.org
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^techfiesta.org [NC]
+RewriteRule ^(.*)$ http://www.techfiesta.org$1 [L,R=301,NC]
+
+
+
+RewriteEngine On
+
+<FilesMatch ".(eot|otf|ttf|woff|woff2)">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+#Allow SVG
+AddType image/svg+xml svg
+AddType image/svg+xml svgz
+AddEncoding x-gzip .svgz
+
+ReWriteCond %{REQUEST_FILENAME} !-f
+ReWriteCond %{REQUEST_FILENAME} !-d
+ReWriteCond %{REQUEST_FILENAME} !-l
+
+RewriteCond %{REQUEST_URI} !^/throwback/$
+
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+
+
+

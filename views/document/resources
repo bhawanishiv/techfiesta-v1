@@ -1,0 +1,45 @@
+<style>
+.header{
+    margin:0;
+    left:0;
+    right:0;
+    background:#fff;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,.3);
+}
+.header .upper-header h1.brand-logo{
+font-size:2.5em;
+line-height:100%;
+margin:0;
+}
+.header .upper-header h1.brand-logo a{
+color:red;
+}
+.upper-header{
+    position:relative;
+}
+.header.main-navigation{
+position:relative;
+}
+.header.main-navigation li.active a{
+    color:blue;
+}
+.header.upper-header.wrapper{
+    position:fixed;
+
+}
+</style>
+
+<header class="header scrol-up">
+    <div class="upper-header">
+        <h1 class="brand-logo"><a href="<?php echo URL?>">Lipikaar<a/></h1>
+        <div class="wrapper"></div>
+        <div class="wrapper"><a class="btn"></a></div>
+    </div>
+    <nav class="main-navigation">
+        <ul>
+            <li class="active"><a href="">Home</a></li>
+            <li><a href="">Composition</a></li>
+            <li><a href="">Composition</a></li>
+        </ul>
+    </nav>
+</header>

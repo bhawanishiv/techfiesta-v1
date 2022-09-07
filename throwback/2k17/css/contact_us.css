@@ -1,0 +1,198 @@
+
+@font-face {
+        font-family: contact_head;
+      src: url(../fonts/cobaltaliensuperital.ttf);
+    }
+
+@font-face {
+        font-family: contact_body;
+      src: url(../fonts/NiconneRegular.ttf);
+    }
+
+@font-face {
+        font-family: query_head;
+      src: url(../fonts/Habibi-Regular.ttf);
+    }
+
+.anchor1
+{
+	 color:#fff; 
+     text-decoration:none; 
+     cursor:pointer;
+}
+.anchor2
+{
+	 color:green; 
+     text-decoration:none; 
+     cursor:pointer;
+}
+.subject
+{
+	margin-top: 50px;
+}
+
+
+#gsac
+{
+	display:block;
+	position: relative;
+}
+
+#technical
+{
+	display:none;
+	position: relative;
+}
+.tab
+{
+	margin-left: 15px;
+	font-size:22px;
+}
+
+.gsac_input,.tech_input
+{
+	display: none;
+}
+ 
+.techfiesta
+{
+	width: 250px;
+	height: 150px;
+	margin-top:50px;
+	
+	margin-left:8%;
+}
+
+
+@media (min-width: 768px){
+.gsac_details
+{
+
+	margin-top:150px;
+	margin-left: 5%;
+	color:white;
+}	
+}
+@media (max-width: 768px){
+.gsac_details
+{
+
+	margin-top:150px;
+	color:white;
+}	
+}
+
+ul
+{
+	list-style: none;
+}
+
+.head
+{
+	color:white;
+	font-family: contact_head;
+	font-size: 30px;
+}
+.part
+{
+	color:white;
+	font-family: contact_part;
+	font-size: 20px;
+}
+.part a{
+	color: #f4c777;
+	word-break: break-all;
+	text-decoration: none;
+
+}
+
+#tech_head
+{
+	margin-bottom: 10px;
+}
+
+.query
+{
+	border: 1px solid #632b42;
+	border-radius:5px;
+	background-color: #cc570e;
+	height: 400px;
+	width: 350px;
+	opacity: 0.8;
+}
+@media only screen and (max-width: 768px)
+{
+
+	.query
+{
+	border: 1px solid;
+	border-radius:5px;
+	
+	background-color: #cc570e;
+	height: 400px;
+	width: 300px;
+
+}
+
+
+}
+
+.query_head
+{
+	margin-top: 30px;
+	color:white;
+	font-family: query_head;
+	font-size: 30px;
+	text-align: center;
+}
+
+.input,.button
+{
+	border:none;
+	padding:15px 20px;
+	border-radius:25px;
+	background:rgba(255,255,255,.1);
+}
+ .input,textarea 
+{
+	width:100%;
+	color:black;
+	display:block;
+	background-color: white;
+}
+.button
+{
+
+	width:100%;
+	
+	display:block;
+	background: #350217;
+}
+.group
+{
+	margin:10px 5%;
+}
+.group input,.group textarea{
+	outline: none;
+}
+#map {
+        height: 200px;
+        margin-top: 20px;
+        border-radius: 3px;
+        background: #DCDCDC;
+        width: 300px;
+        position: relative;
+        margin-right: 0px;
+      }
+ #map div{
+animation: mapmove 1s;
+position: relative;
+ }
+  @keyframes mapmove{
+  	from{left: 0px;}
+  	to{right:0px;}
+  }  
+
+
+
+
